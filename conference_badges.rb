@@ -7,7 +7,7 @@ def batch_badge_creator(array)
 end
 
 def assign_rooms(array)
-  i = 0
+  i = 1
   new_array = []
   while i < array.size
     new_array << "Hello, #{array[i]}! You'll be assinged to room #{i}!"
