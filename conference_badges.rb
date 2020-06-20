@@ -11,7 +11,7 @@ def assign_rooms(array)
   j = 1
   new_array = []
   while i < array.size
-    new_array << "Hello, #{array[i]}! You'll be assinged to room #{j}!"
+    new_array << "Hello, #{array[i]}! You'll be assigned to room #{j}!"
     i +=1
     j +=1
   end
