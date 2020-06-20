@@ -8,6 +8,5 @@ end
 
 def assign_rooms(array)
   i = 0
-  
   array.collect{|name| "Hello, #{name}, "
 end
