@@ -9,5 +9,5 @@ end
 def assign_rooms(array)
   i = 0
   new_array = []
-  while i <= 
+  while i < array.size
 end
